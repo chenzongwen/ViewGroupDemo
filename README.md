@@ -4,7 +4,7 @@ Android自定义控件之自定义ViewGroup实现标签云
 
 Demo
 ====
- ![image](https://github.com/chenzongwen/MiClockView/blob/master/demo.png)
+ ![image](https://github.com/chenzongwen/ViewGroupDemo/blob/master/demo.png)
 
 
 Author
